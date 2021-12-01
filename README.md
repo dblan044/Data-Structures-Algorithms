@@ -3,7 +3,7 @@ My solutions to the Master the Coding Interview: Data Structures + Algorithms bo
 The Course can be found here: https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/
 
 Overview
-Data structures:
+1. Data structures:
 
 •	Arrays 
 
@@ -24,7 +24,8 @@ Data structures:
 •	Graphs 
 
 
-Algorithms:
+
+2. Algorithms:
 
 •	Recursion 
 
