@@ -1,5 +1,5 @@
 # Data-Structures-Algorithms
-My solutions to the Master the Coding Interview: Data Structures + Algorithms bootcamp at Udemy
+My solutions in Java to the Master the Coding Interview: Data Structures + Algorithms bootcamp at Udemy
 The Course can be found here: https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/
 
 Overview
@@ -28,9 +28,7 @@ Overview
 2. Algorithms:
 
     •	Recursion 
-
     •	Sorting 
-
     •	Searching 
 
     •	Tree Traversal 
