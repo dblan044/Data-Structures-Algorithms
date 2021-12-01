@@ -28,7 +28,9 @@ Overview
 2. Algorithms:
 
     •	Recursion 
+    
     •	Sorting 
+    
     •	Searching 
 
     •	Tree Traversal 
