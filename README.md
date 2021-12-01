@@ -5,39 +5,39 @@ The Course can be found here: https://www.udemy.com/course/master-the-coding-int
 Overview
 1. Data structures:
 
-•	Arrays 
+    •	Arrays 
 
-•	Hash Tables 
+    •	Hash Tables 
 
-•	Singly Linked Lists 
+    •	Singly Linked Lists 
 
-•	Doubly Linked Lists 
+    •	Doubly Linked Lists 
 
-•	Queues 
+    •	Queues 
 
-•	Stacks 
+    •	Stacks 
 
-•	Trees (BST, AVL Trees, Red Black Trees, Binary Heaps) 
+    •	Trees (BST, AVL Trees, Red Black Trees, Binary Heaps) 
 
-•	Tries 
+    •	Tries 
 
-•	Graphs 
+    •	Graphs 
 
 
 
 2. Algorithms:
 
-•	Recursion 
+    •	Recursion 
 
-•	Sorting 
+    •	Sorting 
 
-•	Searching 
+    •	Searching 
 
-•	Tree Traversal 
+    •	Tree Traversal 
 
-•	Breadth First Search 
+    •	Breadth First Search 
 
-•	Depth First Search 
+    •	Depth First Search 
 
-•	Dynamic Programming
+    •	Dynamic Programming
 
