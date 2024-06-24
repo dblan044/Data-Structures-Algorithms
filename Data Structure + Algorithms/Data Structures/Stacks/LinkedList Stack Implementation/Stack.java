@@ -13,7 +13,7 @@ public class Stack {
     Stack(int length){
         this.top = null;
         this.bottom = null;
-        this.length = length;
+        this.length = 0;
         
     }
     
