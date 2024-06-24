@@ -10,7 +10,7 @@ public class Stack {
     Node bottom;
     int length;
     
-    Stack(int length){
+    Stack(){
         this.top = null;
         this.bottom = null;
         this.length = 0;
