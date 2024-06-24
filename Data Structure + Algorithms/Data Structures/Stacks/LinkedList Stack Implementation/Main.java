@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        Stack myStack = new Stack(5);
+        Stack myStack = new Stack();
         myStack.push(26);
         myStack.push(305);
         myStack.push(1864);
