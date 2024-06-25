@@ -49,12 +49,12 @@ public class Stack {
             //if there are nodes in the list, remove elemetn
             if(length > 0){
                 top = top.next;
+		        length--;
                 
                 //if there is only one elememt, remove it by nullification
-                if(length == 1){
+                if(length == 0){
                     bottom = null;
                 }
             }
-            length--;
         }
 }
